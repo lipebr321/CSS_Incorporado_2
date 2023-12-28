@@ -1,0 +1,102 @@
+/* arquivo de css importado*/
+body{
+    margin: 0;
+    padding: 0;
+    background:  #fff;
+
+}
+header{
+    background: #5f0a2c; position: fixed; width: 100%; top: -10px; text-align: center; height: 250px;
+    z-index: 100;
+}
+img{
+    width: 100%; height: 200px;
+}
+a{
+    color: #fff; padding: 10px; text-decoration: none; font-size: 20px; position: relative;top: 10px;
+}
+footer{
+    background: #5f0a2c; color: #fff; position: relative; top: 300px; padding: 20px; 
+    text-align: center;
+}
+main{ position: relative;top: 280px; text-align: center;
+
+}
+#mascotinho{
+   width: 250px; border-radius: 40% 40% 100% 100%; border: solid blue;
+}
+
+#imagens{
+    height: 500px;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tabela_sobre{
+    width: 100%; height: 800px;
+}
+
+
+#bolinha{
+    width: 45px; height: 45px; top: 300px; float: left; position: fixed; z-index: 110;
+}
+h3{
+    font-size:larger; color: #5f0a2c; text-align: center;
+}
+
+
+h2{
+    text-align: center;color: rgb(47, 0, 255);
+}
+
+
+p{
+    position: relative; margin: auto; width: 80%;
+    font-size: 15px; color: #5f0a2c; text-align: justify;
+    border: solid rgb(47, 0, 255) 3px; padding: 10px;
+}
+
+#img_tabela{
+    width: 100%; height: 800px;
+}
+
+#img_estadio01{
+    width: 100%; height: 500px;
+    margin-top: 45px;
+    
+}
+
+#img_estadio02{
+    width: 100%; height: 500px;
+    margin-top: 50px;
+}
+
+a:hover{
+    background: #fff; color: #5f0a2c; border-radius: 30px; border: double #ff8 3px;
+}
+
+h2:hover{
+    background: #552fff; color: white; border-radius: 50px; border: double red;
+}
+
+/*active no css acionado no clique*/
+a:active{
+    background:blue; color: #fff; border-radius: 50px; border: double #002 5px;
+}
+h2:active{
+     background: #ff2fee; color: blue; border-radius: 50px; border: double red;
+}
+#mascote_02{
+    position: relative;
+    width: 450px; height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+#sobre{
+    margin-top: 10px;
+}
+#rodape_fotos{
+    top: 1250px;
+}
