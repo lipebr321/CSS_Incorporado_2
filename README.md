@@ -35,7 +35,3 @@ Durante este projeto, aprendi como incorporar estilos CSS diretamente no documen
 ## Autor
 
 - [Luis Felipe Pereira](https://github.com/lipebr321)
-
-## Licença
-
-Este projeto está sob a licença [especificar a licença utilizada].
